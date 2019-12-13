@@ -1,4 +1,5 @@
-package homework5;
+package homework5.HW5;
+
 import java.util.Arrays;
 public class Book {
     private int id;
