@@ -1,4 +1,4 @@
-package homework4;
+package homework4.HW4;
 
 public class NumberPI {
     public static void main(String[] args) {

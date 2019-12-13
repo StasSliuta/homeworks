@@ -1,4 +1,4 @@
-package homework4;
+package homework4.HW4;
 
 import java.util.Scanner;
 public class Pluses {

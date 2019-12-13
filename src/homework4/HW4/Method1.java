@@ -1,6 +1,4 @@
-package homework4;
-
-import java.util.Arrays;
+package homework4.HW4;
 
 public class Method1 {
     public static void maxNumber(int[] myarray) {
